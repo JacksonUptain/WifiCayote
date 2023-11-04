@@ -12,10 +12,20 @@
 
 - 📫 How to reach me: **jackson.uptain@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">What is WifiCayote?</h3>
 <p align="left">
+  <b>Using a cheap $4 dollar ESP8266 Device(wifi chip/board) and a Linux Distribution, you can own a Fake Wifi network that opens a website of your choice on that local network. I have a Kali Linux Distro running on a VM on my computer. I developed a tool(WifiCayote) that will flash the required firmware to the ESP8266, and Locally-Host the website to the fake Wifi network.</b>
 </p>
+<br>
+<h3 align="left">How it Works:</h3>
+<p align="left">
+  <b>Using a Linux Distro we are able to Locally Host a website of our choice. Regularly it is next to impossible to get strangers(in a public place) to click on a Rickroll link, even if we develop the website ourselves. That's why we need the wifi device(ESP8266). The ESP hosts a wifi network that gets broadcasted as "Free Wifi", and like regular free networks, it takes you to a Login/Terms of Use page. The esp doesn't have enough memory to host a video(rickroll)...That's why we connect to the fake network with our linux machine, host the website...and when the User clicks the network...BOOM...I got you! Rickroll!</b>
+</p>
+<br>
 
+<h3 align="left">How Mine Looks Completed:</h3>
+<p><b></b></p>
+<br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
 
