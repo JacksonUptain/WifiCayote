@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Wile E. Cayote (AKA: CayoteWifi Assistant)</h1>
+<h1 align="left">Hi 👋, I'm Wile E. Cayote / CayoteWifi</h1>
 <h3 align="left">A powerful Wifi-Hacking Assistant</h3>
 <img  alt="Coding Cayote Wifi" width="800" src="https://raw.githubusercontent.com/JacksonUptain/WifiCayote/main/WifiCayote.gif">
 <br>
