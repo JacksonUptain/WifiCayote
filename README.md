@@ -24,11 +24,11 @@
 <br>
 
 <h3 align="left">How Mine Looks Completed:</h3>
-<img scr="FCA31DC6-A838-433D-B839-5827B3280E1F.jpeg">
-<img scr="783CF5A8-C4C9-47CF-91B8-4B8570F63FDB.jpeg">
-<img scr="2368E9EB-B079-4787-8BA6-56C1523B95A5.png">
-<img scr="F5B7D572-7D33-4D8D-8E02-D4695429C841.png">
-<img scr="74F4F46A-7F82-48FC-80C0-899201AA0243.png">
+<img scr="https://raw.githubusercontent.com/JacksonUptain/WifiCayote/main/FCA31DC6-A838-433D-B839-5827B3280E1F.jpeg">
+<img scr="https://raw.githubusercontent.com/JacksonUptain/WifiCayote/main/783CF5A8-C4C9-47CF-91B8-4B8570F63FDB.jpeg">
+<img scr="https://raw.githubusercontent.com/JacksonUptain/WifiCayote/main/2368E9EB-B079-4787-8BA6-56C1523B95A5.png">
+<img scr="https://raw.githubusercontent.com/JacksonUptain/WifiCayote/main/F5B7D572-7D33-4D8D-8E02-D4695429C841.png">
+<img scr="https://raw.githubusercontent.com/JacksonUptain/WifiCayote/main/74F4F46A-7F82-48FC-80C0-899201AA0243.png">
 <br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
