@@ -36,7 +36,7 @@
     <td>This is the Setup Page for Wifi Cayote. Just follow the Instructions!</td>
     <td>User Clicks on the Wifi...Believing that it's the Free Public Wifi</td>
     <td>User Agrees to terms and Conditions Page. Appears real.</td>
-    <td>User Believes it's a real login by the company(you can customize it...its just running the Apache web server)</td>
+    <td>User Believes it's a real login(running Apache Web Server)</td>
     <td>Succer! I got you!</td>
   </tr>
   <tr>
