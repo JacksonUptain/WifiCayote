@@ -4,7 +4,7 @@
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jacksonuptain&label=Profile%20views&color=0e75b6&style=flat" alt="jacksonuptain" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jacksonuptain" alt="jacksonuptain" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jacksonuptain&theme=tokyonight" alt="jacksonuptain" /></a> </p>
 
 - 🔭 I’m currently written in: **Bash Shell**
 
