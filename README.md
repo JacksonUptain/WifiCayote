@@ -11,7 +11,7 @@
 - 💬 Ask me about: **How to use the tool/Extra Help**
 
 - 📫 How to reach me: **jackson.uptain@gmail.com**
-
+<h3><b>Download: git clone </b></h3>
 <h3 align="left">What is WifiCayote?</h3>
 <p align="left">
   <b>Using a cheap $4 dollar ESP8266 Device(wifi chip/board) and a Linux Distribution, you can own a Fake Wifi network that opens a website of your choice on that local network. I have a Kali Linux Distro running on a VM on my computer. I developed a tool(WifiCayote) that will flash the required firmware to the ESP8266, and Locally-Host the website to the fake Wifi network.</b>
